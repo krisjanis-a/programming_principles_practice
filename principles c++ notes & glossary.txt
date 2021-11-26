@@ -1,0 +1,104 @@
+
+	|=======================|
+	|	 Part I		|
+	|	Chapter III	|
+	|=======================|
+
+	<<- Review Questions ->>
+
+1. What is meant by the term "prompt"?
+
+	A prompt is asking for something and waiting for desired input and possibly saving the received information for later use.
+
+2. To read into variable you use >> operator.
+
+3. Code for asking input from user:
+
+	cout << "Please, input a number: ";
+	cin >> number;
+
+4. "\n" is called newline and moves cursor to new line in console window.
+
+5. Input to string is terminated by space.
+
+6. Input into integer is terminated by any non-number character (I guess...)
+
+7. As single line:
+
+	cout << "Hello, " << first_name << "!\n";
+
+8. An object is variable name and amount of memory that is dedicated to it.
+
+9. Literal is written value for character
+
+10. Numeric, string, boolean literals.
+
+11. Variable is an object with specific type and name (and optionally value)
+
+12. Typical size for char is 8-bit, int is 4 bytes - 32-bits, double is 8 bytes - 64-bits.
+
+13. Bits and Bytes
+
+14. = > assignment, == > equality
+
+15. A definition is giving value to a named object - variable
+
+	A definition is a declaration that sets aside memory for an object
+
+16. Initialization is giving value when declaring a variable.
+
+	Assignment is giving value after declaration and can be done multiple times
+
+17. String concatenation is unifying two separate strings and you make it work by adding + operator between strings
+
+18. ...
+
+19. Any keyword like if, while, for. Other common names like std, Strings, Ints, integer...
+
+20. Descriptive, short, unique
+
+21. Type safety is important to make sure data is not corrupted during conversions and is related to the way different types are stored in memory.
+
+22. Conversion from double to int is bad because double takes up more space in memory than int and could result in data loss / corruption
+
+23. If input type's dedicated memory is larger than output type's dedicated memory than it is an unsafe conversion.
+
+
+
+	<<- Terms ->>
+
+assignment -
+
+cin - 
+
+concatenation - 
+
+conversion - 
+
+declaration - 
+
+decrement - 
+
+definition - 
+
+increment - 
+
+initialization - 
+
+name - a unique identifier for variable
+
+narrowing - 
+
+object - 
+
+operation - 
+
+operator - 
+
+type - defines an object's represantation in memory
+
+type safety - 
+
+value - an object's represantation in memory
+
+variable - named object
